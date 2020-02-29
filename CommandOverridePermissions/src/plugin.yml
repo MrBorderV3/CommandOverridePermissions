@@ -1,0 +1,11 @@
+name: CommandOverridePermissions
+author: MrBorder
+version: 1.0
+main: me.border.commandoverridepermissions.Main
+commands:
+  newperm:
+    description: Adds a new permission to a command
+  delperm:
+    description: Deletes a permission to a command
+  listcommands:
+    description: Lists all the commands in CommandOverridePermissions

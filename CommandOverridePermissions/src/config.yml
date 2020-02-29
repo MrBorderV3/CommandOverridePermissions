@@ -1,0 +1,9 @@
+noPermission: '&cYou do not have permission to execute this command!'
+Newperm:
+  correct_usage: '&cIncorrect usage! The correct usage is &b/newperm <command> <permission>&6!'
+  success: '&6Successfully added permission &b%permission% &6to the command &b%command%&6!'
+  newnull: '&cError! Command already exists in CommandOverridePermissions!'
+Delperm:
+  correct_usage: '&cIncorrect usage! The correct usage is &b/delperm <command>&6!'
+  success: '&6Successfully removed &b%command% &6from CommandOverridePermissions!'
+  delnull: '&cError! Command does not exist!'
